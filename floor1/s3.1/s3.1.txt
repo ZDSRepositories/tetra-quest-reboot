@@ -1,0 +1,14 @@
+[spoiler=Vote]Investigate the crate while keeping an eye on the insect. If it starts acting aggressively, run.[/spoiler]
+
+You sneak around to the crate, keeping your distance from the bug, and turn it to get a better look.
+
+[ROOM IMAGE]
+
+[REV1 IMAGE]
+
+The wood looks very weak. There's something stamped into the side.
+
+[BUG IMG]
+
+The bug has noticed you. It isn't moving, and most of its attention is on the pipe, but a lone eyestalk tracks you across the room.
+
