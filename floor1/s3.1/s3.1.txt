@@ -2,13 +2,37 @@
 
 You sneak around to the crate, keeping your distance from the bug, and turn it to get a better look.
 
-[ROOM IMAGE]
+[IMG]https://github.com/ZDSRepositories/tetra-quest-reboot/blob/main/floor1/s3.1/s3.1a1.png?raw=true[/IMG]
 
-[REV1 IMAGE]
+[IMG]https://github.com/ZDSRepositories/tetra-quest-reboot/blob/main/floor1/s3.1/acrate.gif?raw=true[/IMG]
 
-The wood looks very weak. There's something stamped into the side.
+You rock it back and forth and hear clinking inside. The wood looks very weak. "REV. 1" is stamped into the side.
 
-[BUG IMG]
+[IMG]https://github.com/ZDSRepositories/tetra-quest-reboot/blob/main/floor1/s3.1/acritter.gif?raw=true[/IMG]
 
 The bug has noticed you. It isn't moving, and most of its attention is on the pipe, but a lone eyestalk tracks you across the room.
+
+[SPOILER="Status"]
+Name: [I]Duos[/I]
+Class: [I]Abyssal Oracle[/I]
+HP: 10/10
+Q (Aether): 2/10
+Inventory: 1/10 slots full (Half Key)
+[/SPOILER]
+[SPOILER="Fusion <Tier 1>"]
+You may Fuse any two items you have of the same Tier to produce a new item of the next Tier, [B]deterministically[/B] (same combo of items = same result).
+The items must be of equal or lesser Tier to your Fusion ability, currently [B]Tier 1.[/B]
+Successfully fusing two items will also grant you [B]Aether [/B](and Max Aether if needed), a resource that powers your Skills.
+Your Fuse tier will increment whenever you pass from one floor/level to the next.
+[/SPOILER]
+[SPOILER="Known Fusions"]
+You haven't observed any fusions yet!
+[/SPOILER]
+[SPOILER="Skills/Spells"]
+Skills and spells cost [B]Q[/B] (the abbreviation for [B]Aether[/B]) to use.
+You'll gain class skills when your Fusion tier increases, and can sometimes learn non-class skills from other sources.
+
+Fusion Foresight (Class Skill, gained at Tier 1): Use for 3Q on two fusible items to get a hint about what they'll produce.
+[/SPOILER]
+
 
